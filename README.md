@@ -1,9 +1,10 @@
 oaktree
 =======
 
-OAKTREE is a python library for managing tree data.
+OAKTREE is a python library for handling tree data.
 
-Files:
-oaktree.py - functions for handling tree structures.
+<h3>Files:</h3>
 
-oak_test.py - sample of code.
+<i>oaktree.py:</i> functions for handling tree data.
+
+<i>oak_test.py:</i> code sample.
