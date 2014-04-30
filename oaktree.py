@@ -1,7 +1,7 @@
 # -*- coding: cp1252 -*-
 
 """
- Copyright (c) 2014 Biazus, Miller
+ 2014 Biazus, Miller
  
  TREE IS A DICT: {A, [B, C]}
  WHERE:
